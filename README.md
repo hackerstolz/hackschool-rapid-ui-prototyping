@@ -5,6 +5,8 @@ Rapid UI Prototyping Workshop.
 
 Infos zum Event selbst: https://www.meetup.com/Hackschool-Rhein-Neckar/events/254736555/
 
+Hier geht es zu den [Slides](https://docs.google.com/presentation/d/1Pm_okNYB8gRXt6mnS-vHd7o6LaYqTs7kl5RrY3VNkV4/edit?usp=sharing).
+
 ## Tools und Benutzerkonten
 Im Workshop arbeiten wir mit dem [Ionic Creator](https://ionicframework.com/pro/creator) (konstenlose Version)
 und [Adobe Experience Design](https://www.adobe.com/de/products/xd.html).
