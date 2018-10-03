@@ -8,8 +8,8 @@ Infos zum Event selbst: https://www.meetup.com/Hackschool-Rhein-Neckar/events/25
 Hier geht es zu den [Slides](https://docs.google.com/presentation/d/1Pm_okNYB8gRXt6mnS-vHd7o6LaYqTs7kl5RrY3VNkV4/edit?usp=sharing).
 
 ## Tools und Benutzerkonten
-Im Workshop arbeiten wir mit dem [Ionic Creator](https://ionicframework.com/pro/creator) (konstenlose Version)
-und [Adobe Experience Design](https://www.adobe.com/de/products/xd.html).
+Im Workshop arbeiten wir mit dem [Ionic Creator](https://ionicframework.com/pro/creator) (kostenlose Version)
+und [Adobe Experience Design](https://www.adobe.com/de/products/xd.html) sowie otional [Zeplin](https://app.zeplin.io).
 Für beide Tools werden entsprechende Benutzerkonten benötigt, welche hier erstellt werden können:
 
 ### [Ionic Creator](https://ionicframework.com/pro/creator)
@@ -24,12 +24,19 @@ Neues Konto erstellen: https://www.adobe.com/de/products/xd.html
 
 Dokumentation: https://helpx.adobe.com/xd/user-guide.html
 
+### [Zeplin](https://app.zeplin.io)
+
+Neues Konto erstellen: https://app.zeplin.io/register
 
 ## Weiterführende Links
 
 * https://developer.mozilla.org/de/
 * https://www.codecademy.com/
+* https://nodeschool.io/de/
 
+## Stencils / UI Schablonen
+
+> Eine Vorauswahl von Stencils bzw. UI Schablonen für Adobe XD, Powerpoint und Keynote findest du diesem Git Repository (siehe Ordner `fonts` für nützliche Schriftarten und `stencils`)
 
 ## Ideen und Beispiel Anwendungsfälle
 
